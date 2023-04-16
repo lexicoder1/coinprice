@@ -1,0 +1,13 @@
+.connect{
+    background: linear-gradient(25deg, #2600fc, #ff00ea);
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    color: white;
+    cursor: pointer;
+
+}
+.connect:active{
+ 
+    background: linear-gradient(25deg, #4736a9, #92378a);
+}
